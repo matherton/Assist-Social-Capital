@@ -12,3 +12,9 @@
   Text Domain: twentyseventeen-child;
 
 */
+
+body.home.title-tagline-hidden.has-header-video .custom-logo-link img {
+	max-width: 250px;
+}
+
+.site-info { display: none; }
