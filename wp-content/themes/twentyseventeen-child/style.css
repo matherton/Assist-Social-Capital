@@ -17,4 +17,8 @@ body.home.title-tagline-hidden.has-header-video .custom-logo-link img {
 	max-width: 250px;
 }
 
+.twentyseventeen-front-page.has-header-video .site-branding {
+	top: 2em;
+}
+
 .site-info { display: none; }
